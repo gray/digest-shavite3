@@ -1,0 +1,9 @@
+Digest-SHAvite3-*
+MANIFEST.bak
+Makefile
+Makefile.old
+SHAvite3.bs
+SHAvite3.c
+SHAvite3.o
+blib/
+pm_to_blib
