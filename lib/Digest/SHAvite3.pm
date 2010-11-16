@@ -77,8 +77,8 @@ Digest::SHAvite3 - Perl interface to the SHAvite-3 digest algorithm
     );
 
     $digest = shavite3_256($data);
-    $digest = shavite3_hex_256($data);
-    $digest = shavite3_base64_256($data);
+    $digest = shavite3_256_hex($data);
+    $digest = shavite3_256_base64($data);
 
     # Object-oriented interface
     use Digest::SHAvite3;
