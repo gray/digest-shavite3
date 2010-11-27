@@ -6,7 +6,7 @@
 #include "ppport.h"
 
 #include "src/sha3nist.c"
-#include "src/shavite.c"
+#include "src/shavite3.c"
 
 typedef hashState *Digest__SHAvite3;
 
