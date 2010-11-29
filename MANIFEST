@@ -9,7 +9,7 @@ SHAvite3.xs
 src/aes_helper.c
 src/sha3nist.c
 src/sha3nist.h
-src/shavite.c
+src/shavite3.c
 src/sph_shavite.h
 src/sph_types.h
 t/00_load.t
