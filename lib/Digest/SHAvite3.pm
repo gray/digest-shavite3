@@ -66,7 +66,8 @@ Digest::SHAvite3 - Perl interface to the SHAvite-3 digest algorithm
 =head1 DESCRIPTION
 
 The C<Digest::SHAvite3> module provides an interface to the SHAvite3 message
-digest algorithm. SHAvite-3 is a candidate in the NIST SHA-3 competition.
+digest algorithm. SHAvite-3 was a candidate in the NIST SHA-3 competition
+but did progress beyond round 2.
 
 This interface follows the conventions set forth by the C<Digest> module.
 
